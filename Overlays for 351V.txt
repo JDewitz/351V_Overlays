@@ -1,0 +1,18 @@
+This is the first release from J.dewitz
+This release does not use Jdan-S's content, but instead reconstructs and expands on some of that. 
+
+Each varaition comes without the color screen as gambatte can handle pallettes better than overlays do with a few exceptions and GB Light looks cool.
+
+ 
+
+I wasn't a huge Game Gear player and I remember the screen kind of sucking, so I included a beat up overlay for the sake of nostalgia. It's terrible, but it's better than you think.
+
+This overlay tries to reimagine the Game Gear and Neo Geo Pocket/Color as a portrait device, but the idea is pretty simple.
+
+For best results, turn off filters and shaders, turn on integer scaling. Any _grid overlay has a faux lcd screen effect. It's just a grid. Looks alright.
+
+If you want full screen, turn off integer scaling and scale the overlay to 1.10 for GB. Not sure what that number will be for other systems. 
+
+As usual please don't sell this pack. I do this to support the community. 
+
+Enjoy
